@@ -7,11 +7,8 @@ Debug Library é uma aplicação fullstack desenvolvida com foco em produtividad
 ### Frontend
 
 **Vite** – Build tool ultra rápido.
-
 **React** – Biblioteca JavaScript para interfaces modernas.
-
 **Typescript** - Superset de JavaScript tipado.
-
 **TailwindCSS** – Framework utilitário de CSS.
 
 ### Backend
