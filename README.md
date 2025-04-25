@@ -19,6 +19,9 @@ Frontend
 
 A critério da equipe
 
+## Metodologias Ágeis e Ferramenta Utilizada
+Kanban e Jira
+
 ## Gitflow – Como colaboramos no Debug Library
 
 Adotamos o modelo de Gitflow para garantir uma organização eficiente e colaborativa no desenvolvimento.
