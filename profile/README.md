@@ -4,7 +4,7 @@ Debug Library é uma aplicação fullstack desenvolvida com foco em produtividad
 
 ## Tecnologias Utilizadas
 
-**Frontend**
+### Frontend
 
 **Vite** – Build tool ultra rápido.
 
@@ -14,7 +14,7 @@ Debug Library é uma aplicação fullstack desenvolvida com foco em produtividad
 
 **TailwindCSS** – Framework utilitário de CSS.
 
-## Backend
+### Backend
 
 A definir
 
