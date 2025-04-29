@@ -1,6 +1,6 @@
 ## Debug Library
 
-Debug Library é uma aplicação fullstack desenvolvida com foco em produtividade, organização e colaboração para desenvolvedores(as). A plataforma permite fazer o cadastro do usuário e criar sua lista de livros personalizados com base em suas avaliacoes.
+Debug Library é uma aplicação fullstack desenvolvida com foco em produtividade, organização e colaboração para desenvolvedores(as). A plataforma permite fazer o cadastro do usuário e criar sua lista de livros personalizados com base em suas avaliações.
 
 ## Tecnologias Utilizadas
 
