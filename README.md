@@ -12,7 +12,7 @@ Frontend
 
 - **Typescript** – Superset de JavaScript tipado.
 
-**TailwindCSS** – Framework utilitário de CSS.
+- **TailwindCSS** – Framework utilitário de CSS.
 
 
 ## Backend
