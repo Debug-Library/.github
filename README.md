@@ -17,7 +17,7 @@ Frontend
 
 ## Backend
 
-A critério da equipe
+- **Banco de Dados** – PostgreSQL
 
 ## Metodologias Ágeis e Ferramenta Utilizada
 Kanban e Jira
