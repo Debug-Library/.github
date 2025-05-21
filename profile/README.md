@@ -13,7 +13,7 @@ Debug Library é uma aplicação fullstack desenvolvida com foco em produtividad
 
 ### Backend
 
-A definir
+**Banco de Dados:** PostgreSQL
 
 ## Gitflow – Como colaboramos no Debug Library
 
